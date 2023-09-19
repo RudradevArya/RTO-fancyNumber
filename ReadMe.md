@@ -16,7 +16,7 @@ Now I get the programming humour memes
 
 # What this repo is?
 ### Some background
-1. going to buy a new vehicle soon and family wanted a fancy number plate with digitalRoot as 6 
+1. wanted a number plate with digitalRoot as 6 
 2. so worked on the **digitalRoot.py**
 
 3. then after research found out that there are limited number of fancy numbers which are auctioned 
