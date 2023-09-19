@@ -23,7 +23,7 @@ def digital_root(n):
 
 
 
-with open("fancyNumList.txt", "r") as data_file:
+with open("sortedNum.txt", "r") as data_file:
     # Read the data
     data = data_file.read()
 

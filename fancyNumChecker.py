@@ -18,7 +18,7 @@ with open("fancyNumList.txt","r") as input:
 lines = data.split("\n")
 
 
-with open("2new_file.txt", "w") as f:
+with open("sortedNum.txt", "w") as f:
     f.write("Digits\tPrice\n")
     
   
